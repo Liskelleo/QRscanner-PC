@@ -1,0 +1,6 @@
+Supported OS: win10x64
+Supported web browsers: EDGE
+Supported Python(3.9.6) Libs:
+opencv-python==4.5.4.60
+numpy==1.21.2
+selenium==4.1.1
